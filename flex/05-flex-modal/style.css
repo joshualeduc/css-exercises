@@ -24,15 +24,9 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-<<<<<<< HEAD
-  padding: 1em;
-  display: flex;
-  gap: 1em;
-=======
   display: flex;
   padding: 16px;
   gap: 16px;
->>>>>>> new-branch
 }
 
 .icon {
@@ -46,11 +40,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-<<<<<<< HEAD
-  flex:none;
-=======
   flex-shrink: 0;
->>>>>>> new-branch
 }
 
 .close-button {
@@ -83,21 +73,6 @@ button.cancel {
   color: royalblue;
 }
 
-<<<<<<< HEAD
-.non-icon {
-  display: flex;
-  flex-direction: column;
-  row-gap: 1em;
-}
-
-.continue-cancel {
-  display: flex;
-}
-
-.header-close {
-  display: flex;
-  justify-content: space-between;
-=======
 .header {
   font-weight: bold;
   font-size: 18px;
@@ -109,5 +84,4 @@ button.cancel {
 
 .text {
   margin-bottom: 16px;
->>>>>>> new-branch
 }
